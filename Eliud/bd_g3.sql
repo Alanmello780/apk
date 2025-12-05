@@ -1,0 +1,1 @@
+SELECT * FROM bd_g3.usuarios;
